@@ -12,4 +12,4 @@ Website for freelance design business, updating homepage, and a secret project
 ⚡ Fun fact: ... Not just a coding hack.. also, an avid golfer
 
 
-[My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=calebpdx&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=calebpdx&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
