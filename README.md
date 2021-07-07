@@ -12,4 +12,5 @@ Website for freelance design business, updating homepage, and a secret project
 ⚡ Fun fact: ... Not just a coding hack.. also, an avid golfer
 
 ## Some Github Stats
+![Calebpdx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebpdx&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=calebpdx&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
